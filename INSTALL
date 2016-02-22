@@ -1,0 +1,9 @@
+Building Platonic
+
+See doc/readme-qt.rst for instructions on building Platonic QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Platonic.
+
+See doc/build-*.txt for instructions on building Platonicd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Platonic.
